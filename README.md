@@ -1,2 +1,2 @@
 # NakshatraWebApplication
-Nakshatra Application 
+Nakshatra Web Application 
